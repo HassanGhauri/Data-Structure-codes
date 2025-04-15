@@ -1,2 +1,2 @@
-# Data-Structure-codes
-Data structure codes
+# Code for Binary Heap
+This a program for Binary Heap.
